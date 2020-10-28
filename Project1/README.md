@@ -1,6 +1,6 @@
 # Project 1: Exploratory Visualization
-A. PROSPECTUS
+## A. PROSPECTUS
 
 
 
-B. SKETCHES & MOCKUPS
+## B. SKETCHES & MOCKUPS
