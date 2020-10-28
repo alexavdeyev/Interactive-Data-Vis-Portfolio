@@ -13,18 +13,6 @@ Epidemiological studies that have investigated the link between the Chernobyl ac
 due to high doses of radiation received during and after the event, [**the United Nations body reviewing the effects of atomic radiation on human 
 health and the environment**](https://news.un.org/en/story/2018/04/1008292) has said.
 
-My project aims to explore how the dominant color of an artist’s works might change over time -- their “color history”. I was inspired by looking at the monochromatic works from Pablo Picasso’s Blue Period. I wondered how that period would look in a data visualization -- if I put his works on a timeline, could I “point out” the Blue Period without being told when it started?
-
-
-Many lessons have been learned from the Chernobyl accident and preparations have been
-made to respond to and mitigate future accidents.
-
-
-
-Cancer is a large group of diseases that can start in almost any organ or tissue of the body when abnormal cells grow uncontrollably, go beyond their usual boundaries to invade adjoining parts of the body and/or spread to other organs. The latter process is called metastasizing and is a major cause of death from cancer. A neoplasm and malignant tumour are other common names for cancer.
-
-Cancer is the second leading cause of death globally, accounting for an estimated 9.6 million deaths, or one in six deaths (2018). Lung, prostate, colorectal, stomach and liver cancer are the most common types of cancer in men, while breast, colorectal, lung, cervical and thyroid cancer are the most common among women.
-
 
 **Data Sources and Methodology:**
 1. [Global Cancer Observatory](https://gco.iarc.fr/) is an interactive web-based platform presenting global cancer statistics to inform cancer control and research
