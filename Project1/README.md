@@ -1,1 +1,1 @@
-Project 1: Exploratory Visualization
+# Project 1: Exploratory Visualization
