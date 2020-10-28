@@ -7,7 +7,7 @@ Belarus and the Russian Federation, with most of the fallout in Belarus. While n
 the scale of the accident, the mitigation measures, such as distribution of potassium iodine pills, food restriction, and mass evacuation
 from areas where the radioactive contamination was greatest, undoubtedly reduced the health impact of the radiation exposure and saved many lives.
 
-Epidemiological studies that have investigated the link between the Chernobyl accident and cancer have largely focused on malignant diseases in children, specifically thyroid cancer and leukaemia. There is good evidence to suggest that rates of thyroid cancer in children from the countries that were formally part of the Soviet Union have risen as a consequence of the Chernobyl accident. 
+Epidemiological studies that have investigated the link between the Chernobyl  accident and cancer have largely focused on malignant diseases in children, specifically thyroid cancer and leukaemia. There is good evidence to suggest that rates of thyroid cancer in children from the countries that were formally part of the Soviet Union have risen as a consequence of the Chernobyl accident. 
 
 > "A quarter of all thyroid cancer cases among patients who were children at the time of the Chernobyl accident, are “probably” 
 due to high doses of radiation received during and after the event, [**the United Nations body reviewing the effects of atomic radiation on human 
