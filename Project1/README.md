@@ -1,16 +1,23 @@
 # Project 1: Exploratory Visualization
-## A. PROSPECTUS
-Thirty four years have passed since the worst nuclear reactor accident in the world occurred at the Chernobyl nuclear power plant in Ukraine. 
-The radioactive contamination which resulted from the explosion and fire in the first few days spread over large areas of neighbouring 
+## How Many Cancers Did Chernobyl Really Cause?
+### A. PROSPECTUS
+Thirty four years have passed since the worst nuclear reactor accident in the world occurred at the Chernobyl nuclear power plant on 26 April 1986
+in Ukraine. The radioactive contamination which resulted from the explosion and fire in the first few days spread over large areas of neighbouring 
 Belarus and the Russian Federation, with most of the fallout in Belarus. While national and local authorities did not immediately disclose 
 the scale of the accident, the mitigation measures, such as distribution of potassium iodine pills, food restriction, and mass evacuation
 from areas where the radioactive contamination was greatest, undoubtedly reduced the health impact of the radiation exposure and saved many lives.
+
+Epidemiological studies that have investigated the link between the Chernobyl accident and cancer have largely focused on malignant diseases in children, specifically thyroid cancer and leukaemia. There is good evidence to suggest that rates of thyroid cancer in children from the countries that were formally part of the Soviet Union have risen as a consequence of the Chernobyl accident. 
 
 > "A quarter of all thyroid cancer cases among patients who were children at the time of the Chernobyl accident, are “probably” 
 due to high doses of radiation received during and after the event, [**the United Nations body reviewing the effects of atomic radiation on human 
 health and the environment**](https://news.un.org/en/story/2018/04/1008292) has said.
 
+My project aims to explore how the dominant color of an artist’s works might change over time -- their “color history”. I was inspired by looking at the monochromatic works from Pablo Picasso’s Blue Period. I wondered how that period would look in a data visualization -- if I put his works on a timeline, could I “point out” the Blue Period without being told when it started?
 
+
+Many lessons have been learned from the Chernobyl accident and preparations have been
+made to respond to and mitigate future accidents.
 
 
 
@@ -25,4 +32,4 @@ Cancer is the second leading cause of death globally, accounting for an estimate
 3. [Our World in Data](https://ourworldindata.org/cancer)
 4. [Health Effects of the Chernobyl Accident](https://www.who.int/ionizing_radiation/chernobyl/WHO%20Report%20on%20Chernobyl%20Health%20Effects%20July%2006.pdf)
 
-## B. SKETCHES & MOCKUPS
+### B. SKETCHES & MOCKUPS
