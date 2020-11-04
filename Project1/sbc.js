@@ -10,6 +10,7 @@ const
     width = 600, height = 400,
     innerWidth = width - margin.left - margin.right,
     innerHeight = height - margin.top - margin.bottom;   
+
 // set up stack method
 const
     stack = d3.stack().keys(["Female", "Male"]);

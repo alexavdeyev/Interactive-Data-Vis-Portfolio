@@ -29,7 +29,7 @@ let svg, xScale, yScale, yAxis;
 let state = {data: [], selectedCountry: null};
 
 /**
- * LOAD DATA
+ **LOAD DATA
  **/
 d3.csv("data/multi.csv", d => ({
   year: new Date(d.Year, 0, 1),
