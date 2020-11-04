@@ -8,8 +8,44 @@
     <title>.:Interactive Data Visualization Project 1:.</title>
     <link rel="stylesheet" href="style.css">
     <script src="../lib/d3.js"></script>
-    <script src="main.js"></script>
+    <script src="chart.js"></script>
+    <script src="sbc.js"></script>
   </head>
   <body>
+    <div class="container">
+    <header>
+      <h1>Exploratory Visualization: How Many Cancers Did Chernobyl Really Cause?</h1>
+      <h2>Evaluation of Data on Thyroid Cancer in Regions Affected by the Chernobyl Accident</h2>
+    </header>
+    </div>
+      <div class="container">
+        <div id="viz1">
+          <div align="center"><b>Total number of cases of thyroid cancer registered in 1991–2015</br> among those who were under 18 at the time of the accident</b></div>
+        </br></br></br>
+        </div>
+        <div id="tooltip_chart" class="hidden">
+          <p>Country: <span id="country"></span></p>
+          <p>Gender: <span id="gender"></span></p>
+          <p>Cases: <span id="cases"></span></p>
+        </div>
+      </div>
+      <div class="container">
+        <div id="viz2">
+          <div align="center"><b>Incidence rates of thyroid cancer in 1985–2015</br> among those exposed under the age of 18 in Belarus,</br>
+            Russian Federation (Bryansk, Kaluga, Orel and
+            Tula oblasts) and Ukraine</b>
+          </div>
+          <p></p>
+            <div>
+              <label for="dropdown">By Country:</label>
+              <select id="dropdown" name="dropdown"></select>
+            </div>
+        </div>
+      </div>
+    </div>
+
+    <footer></footer>
+
+    </div>
   </body>
 </html>

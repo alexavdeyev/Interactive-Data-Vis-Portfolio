@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Russia",
+    "values": [
+      {"year": 1985, "cases": 2},
+      {"year": 1990, "cases": 17},
+      {"year": 1995, "cases": 135},
+      {"year": 2000, "cases": 241},
+      {"year": 2005, "cases": 358},
+      {"year": 2010, "cases": 477},
+      {"year": 2015, "cases": 627}
+    ]
+  },
+  {
+    "name": "Ukraine",
+    "values": [
+      {"year": 1985, "cases": 39},
+      {"year": 1990, "cases": 164},
+      {"year": 1995, "cases": 646},
+      {"year": 2000, "cases": 1168},
+      {"year": 2005, "cases": 1829},
+      {"year": 2010, "cases": 2823},
+      {"year": 2015, "cases": 5023}
+    ]
+  },
+  {
+    "name": "Belarus",
+    "values": [
+      {"year": 1985, "cases": 39},
+      {"year": 1990, "cases": 74},
+      {"year": 1995, "cases": 577},
+      {"year": 2000, "cases": 853},
+      {"year": 2005, "cases": 1041},
+      {"year": 2010, "cases": 1455},
+      {"year": 2015, "cases": 1980}
+    ]
+  }
+]
