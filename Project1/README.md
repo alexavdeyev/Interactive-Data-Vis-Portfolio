@@ -21,3 +21,4 @@ health and the environment**](https://news.un.org/en/story/2018/04/1008292) has 
 4. [Health Effects of the Chernobyl Accident](https://www.who.int/ionizing_radiation/chernobyl/WHO%20Report%20on%20Chernobyl%20Health%20Effects%20July%2006.pdf)
 
 ### B. SKETCHES & MOCKUPS
+[Initial sketch](https://github.com/alexavdeyev/Interactive-Data-Vis-Portfolio/blob/main/Project1/data/Sketch.jpg)
