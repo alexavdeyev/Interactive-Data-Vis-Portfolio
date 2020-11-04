@@ -22,3 +22,5 @@ health and the environment**](https://news.un.org/en/story/2018/04/1008292) has 
 
 ### B. SKETCHES & MOCKUPS
 [Initial sketch](https://github.com/alexavdeyev/Interactive-Data-Vis-Portfolio/blob/main/Project1/data/Sketch.jpg)
+### C. EXPLORING DATA
+Thirty four years have passed since the worst nuclear reactor accident in the world occurred at the Chernobyl nuclear power plant on 26 April 1986
