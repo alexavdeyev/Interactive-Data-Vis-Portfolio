@@ -5,3 +5,5 @@ CSS, JavaScript D3.
 ### Project 2: Narrative Visualization [In progress ...](https://alexavdeyev.github.io/Interactive-Data-Vis-Portfolio/Project2/)
 ### Other works:
 > 1. [Cancer Epidemiology, 1990 to 2017](https://alexavdeyev.github.io/Interactive-Data-Vis-Fall2020/tutorial4_timeseries/)
+> 2. [First-year college GPA vs High school GPA](https://alexavdeyev.github.io/Interactive-Data-Vis-Fall2020/tutorial3_distributions/)
+> 3. [Capital cities of the United States](https://alexavdeyev.github.io/Interactive-Data-Vis-Fall2020/tutorial5_geographic/)
