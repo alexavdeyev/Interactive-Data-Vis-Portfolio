@@ -6,3 +6,5 @@ This portfolio was made for <b>DATA73200: Interactive Data Visualization</b> cla
 > 1. [Cancer Epidemiology, 1990 to 2017](https://alexavdeyev.github.io/Interactive-Data-Vis-Fall2020/tutorial4_timeseries/)
 > 2. [First-year college GPA vs High school GPA](https://alexavdeyev.github.io/Interactive-Data-Vis-Fall2020/tutorial3_distributions/)
 > 3. [Capital cities of the United States](https://alexavdeyev.github.io/Interactive-Data-Vis-Fall2020/tutorial5_geographic/)
+> 4. [Gold Mine Production](https://alexavdeyev.github.io/Interactive-Data-Vis-Fall2020/tutorial2_quantities_and_amounts/)
+> 5. [Hierarchical Circle Packing](https://alexavdeyev.github.io/Interactive-Data-Vis-Fall2020/tutorial6_hierarchical/)
