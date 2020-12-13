@@ -1,0 +1,38 @@
+{
+    "name": "flare",
+    "children": [
+      {
+        "name": "A mostly positive effect",
+        "children": [
+          { "name": "Connecting with friends/family", "value": 40 },
+          { "name": "Easier to find news/info", "value": 16 },
+          { "name": "Meeting others with same interests", "value": 15 },
+          { "name": "Keeps you entertained/upbeat", "value": 9 },
+          { "name": "Self expression", "value": 7 },
+          { "name": "Getting support from others", "value": 5 },
+          { "name": "Learning support from others", "value": 5 },
+          { "name": "Learning new things", "value": 4 },
+          { "name": "Other", "value": 6 }
+        ]
+      },
+      {
+        "name": "Neither positive nor negative effect",
+        "children": [
+          { "name": "Neither positive nor negative effect", "value": 45 }
+        ]
+      },
+      {
+        "name": "A mostly negative effect",
+        "children": [
+          { "name": "Bullying/rumor spreding", "value": 27 },
+          { "name": "Harm relationships/lack of in-person contact", "value": 17 },
+          { "name": "Unrealistic views of others' lives", "value": 15 },
+          { "name": "Causes distractions/addiction", "value": 14 },
+          { "name": "Peer pressure", "value": 12 },
+          { "name": "Causes mental health issues", "value": 4 },
+          { "name": "Drama, in general", "value": 3 },
+          { "name": "Other", "value": 12 }
+        ]
+      }
+    ]
+  }
