@@ -1,4 +1,4 @@
-# Project 1: Narrative Visualization
+# Project 2: Narrative Visualization
 ## Impact of Social Media on Youth Mental Health
 ### A. PROSPECTUS
 Like technology in general, social media has both an upside and a downside. And when it comes to the effect of social media on teenagers, those pros and cons are particularly significant. On the plus side, platforms like Facebook, Twitter, Instagram, and Snapchat can be lifesavers for teens who feel isolated or marginalized. But frequent use of social media among teenagers and young adults has many less positive consequences. These include cyberbullying, negative self-image and body image, social media addiction, and less time spent doing healthy, real-world activities.
