@@ -4,7 +4,6 @@ This portfolio was made for <b>DATA73200: Interactive Data Visualization</b> cla
 ![Image](https://alexavdeyev.github.io/Interactive-Data-Vis-Portfolio/data/cancer.png)
 ### Project 2: Narrative Visualization [Impact of Social Media on Youth Mental Health](https://alexavdeyev.github.io/Interactive-Data-Vis-Portfolio/Project2/) [.:Code:.](https://github.com/alexavdeyev/Interactive-Data-Vis-Portfolio/tree/main/Project2)
 ![Image](https://alexavdeyev.github.io/Interactive-Data-Vis-Portfolio/data/bullying.png)
-![Image](https://alexavdeyev.github.io/Interactive-Data-Vis-Portfolio/data/survey.png)
 ### Other works:
 > 1. [Cancer Epidemiology, 1990 to 2017](https://alexavdeyev.github.io/Interactive-Data-Vis-Fall2020/tutorial4_timeseries/)
 > 2. [First-year college GPA vs High school GPA](https://alexavdeyev.github.io/Interactive-Data-Vis-Fall2020/tutorial3_distributions/)
