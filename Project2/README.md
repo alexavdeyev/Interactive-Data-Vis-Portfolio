@@ -12,5 +12,5 @@ Like technology in general, social media has both an upside and a downside. And 
 
 
 ### B. SKETCHES & MOCKUPS
-[Initial sketch]((https://github.com/alexavdeyev/Interactive-Data-Vis-Portfolio/blob/main/Project2/data/1.png)
+[Initial sketch](https://github.com/alexavdeyev/Interactive-Data-Vis-Portfolio/blob/main/Project2/data/1.png)
 
